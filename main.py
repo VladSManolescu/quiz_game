@@ -7,7 +7,7 @@ import caesar
 import datetime
 
 MENU = """
-Hello player! What would you like to do?
+Hello player!! What would you like to do?
 \t\t1. Add question
 \t\t2. Remove question
 \t\t3. Edit question
